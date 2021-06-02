@@ -1,0 +1,4 @@
+# TODO:
+# * Relationships
+# * Folder structure
+# * Testing
